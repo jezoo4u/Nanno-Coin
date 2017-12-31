@@ -1,0 +1,2 @@
+# Nanno-Coin
+Crypto currency
